@@ -29,3 +29,9 @@ h3 {
       background-image: url("/home/Peter/Downloads/$_57.JPG");
       background-repeat:no-repeat;
   }
+  .test-box {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+  }
