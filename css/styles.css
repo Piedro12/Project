@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+  text-align: center;
+  border: 2px solid red;
+    padding:1px;
+    margin:1px;
+    height:40px;
+    length:1px;
+     background-color: maroon;
+  }cd
+}
+h2 {
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+h3 {
+  color:Orange;
+  font-style: italic;
+}
+.important {
+  color: red;
+}
+
+  .cat-climate {
+    background-color: yellow;
+  }
+  body {
+      background-image: url("/home/Peter/Downloads/$_57.JPG");
+      background-repeat:no-repeat;
+  }
